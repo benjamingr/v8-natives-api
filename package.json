@@ -1,0 +1,20 @@
+{
+  "name": "v8-natives-api",
+  "version": "1.0.1",
+  "description": "Exposes V8 natives syntax as an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./index.test.js",
+    "lint": "eslint *.js"
+  },
+  "keywords": [
+    "v8",
+    "natives-syntax"
+  ],
+  "author": "Benjamin Gruenbaum",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "mocha": "^8.2.1"
+  }
+}
