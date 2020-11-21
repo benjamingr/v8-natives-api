@@ -1,7 +1,9 @@
 {
   "name": "v8-natives-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Exposes V8 natives syntax as an API",
+  "repository": "https://github.com/benjamingr/v8-natives-api",
+  "bugs": "https://github.com/benjamingr/v8-natives-api/issues",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./index.test.js",
